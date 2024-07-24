@@ -11,6 +11,7 @@ Welcome to the **Booking Form** project! This ReactJS-based web application allo
 - **ReactJS:** [ReactJS](https://react.dev) for building the user interface.
 - **SCSS:** [Sass](https://sass-lang.com) for styling the application.
 - **react-datepicker:** [react-datepicker](https://reactdatepicker.com/) for selecting the booking date.
+- **Vite:** [Vite](https://vitejs.dev) for fast development.
 
 ## Installation and Setup
 
@@ -29,11 +30,11 @@ Ensure you have **Node.js** (version 20.6.1) and **npm** (version 9.8.1).
     ```
 3. **Run the Application**
     ```sh
-    npm start
+    npm run dev
     ```
     
 4. **Open in Browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) in your web browser to see the application in action.
+   Navigate to [http://localhost:5173](http://localhost:5173) in your web browser to see the application in action.
 
 ## Project Structure
 - **public/**: Contains static files.
