@@ -3,7 +3,7 @@
 Welcome to the **Booking Form** project! This ReactJS-based web application allows users to book a laser tag session by filling out a user-friendly form. The application supports form validation, submission and displays the submitted data in a modal.
 
 ## Features
-- **User-Friendly Form:** Input fields for Firstname, Lastname, Email address, Number of people in the booking, Desired date and time for the session, and Additional comments.
+- **User-Friendly Form:** Input fields for First name, Last name, Email address, Number of people in the booking, Desired date and time for the session and Additional comments.
 - **Validation:** Ensures that all required fields are filled out correctly before submission.
 - **Submission:** Data is submitted and displayed in a modal for confirmation.
 
@@ -12,6 +12,9 @@ Welcome to the **Booking Form** project! This ReactJS-based web application allo
 - **SCSS:** [Sass](https://sass-lang.com) for styling the application.
 - **react-datepicker:** [react-datepicker](https://reactdatepicker.com/) for selecting the booking date.
 - **Vite:** [Vite](https://vitejs.dev) for fast development.
+
+## Live Demo
+[View the live demo](https://booking-form.mantra-dev.com)
 
 ## Installation and Setup
 
