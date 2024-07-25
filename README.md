@@ -8,7 +8,8 @@ This ReactJS-based web application that allows users to book a laser tag session
 2. [Technologies Used](#technologies-used)
 3. [Live Demo](#live-demo)
 4. [Installation and Setup](#installation-and-setup)
-5. [Project Structure](#project-tructure)
+5. [Project Structure](#project-structure)
+6. [Usage](#usage)
 
 ## Features
 - **User-Friendly Form:** Input fields for First name, Last name, Email address, Number of people in the booking, Desired date and time for the session and Additional comments.
