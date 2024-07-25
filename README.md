@@ -1,6 +1,6 @@
 # Booking Form
 
-Welcome to the **Booking Form** project! This ReactJS-based web application allows users to book a laser tag session by filling out a user-friendly form. The application supports form validation, submission and displays the submitted data in a modal.
+This ReactJS-based web application that allows users to book a laser tag session by filling out a user-friendly form. The application supports form validation, submission and displays the submitted data in a modal.
 
 ## Features
 - **User-Friendly Form:** Input fields for First name, Last name, Email address, Number of people in the booking, Desired date and time for the session and Additional comments.
@@ -46,9 +46,11 @@ Ensure you have **Node.js** (version 20.6.1) and **npm** (version 9.8.1).
   - **main.jsx**: Entry point for the React application.
   - **Modal.jsx**: Component for displaying the modal with booking details.
   - **Styles/**: SCSS files for styling the application.
-    - `App.scss`: Styles for the main application.
-    - `Modal.scss`: Styles for the modal component.
-- **index.css**: Global styles.
+    - **App.scss**: Styles for the main application.
+    - **Modal.scss**: Styles for the modal component.
+    - **Calendar.scss**: Customizes the default styles of **react-datepicker** to align with the design of the application.
+    - **Variables.scss**: Contains color variables used throughout the application for consistent theming and styling.
+- **index.html**: The main HTML file that serves as the entry point for the application.
 
 ## Usage
 After starting the application, use the form to input booking details. Upon submission, a modal will display the entered information.
